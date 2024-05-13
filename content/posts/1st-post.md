@@ -2,15 +2,12 @@
 title = '1st Post'
 date = 2024-05-13T23:17:46+08:00
 draft = false
-slug: "git-instruction-1"
 categories: ["Linux"]
 tags: ["Git"]
 
 +++
 
 
-
-[![img](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/assets/img/ghelper-logo.png)](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html)
 
 - [**VIP: 2024-05-14**](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/plan)
 - [ 升级会员](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/plan)

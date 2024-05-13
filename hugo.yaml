@@ -61,7 +61,6 @@ params:
     Content: >
       - ✨ 欢迎来到我的个人博客
 
-
   socialIcons:
     - name: rss
       url: "index.xml"

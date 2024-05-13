@@ -1,7 +1,10 @@
 +++
 title = '1st Post'
 date = 2024-05-13T23:17:46+08:00
-draft = true
+draft = false
+slug: "git-instruction-1"
+categories: ["Linux"]
+tags: ["Git"]
 
 +++
 

@@ -2,8 +2,8 @@
 title = '1st Post'
 date = 2024-05-13T23:17:46+08:00
 draft = false
-categories: ["Linux"]
-tags: ["Git"]
+categories = ["Linux"]
+tags = ["Git"]
 
 +++
 

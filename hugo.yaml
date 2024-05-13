@@ -1,3 +1,72 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://insightjoy.github.io/"
+title: hxx's Blog
+paginate: 10
+theme: PaperMod
+languageCode: zh
+defaultContentLanguage: zh
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - name: 归档
+      url: archives
+      weight: 10
+    - name: 分类
+      url: categories/
+      weight: 20
+    - name: 标签
+      url: tags/
+      weight: 30
+    - name: 搜索
+      url: search/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "个人笔记随笔小站"
+  author: hxx
+  # author: ["Me", "You"] # multiple authors
+  # images: /favicon.ico
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  # ShowShareButtons: true
+  # ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: >
+      - ✨ 欢迎来到我的个人博客
+
+
+  socialIcons:
+    - name: rss
+      url: "index.xml"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

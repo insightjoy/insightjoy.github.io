@@ -6,6 +6,17 @@
     <description>Recent content on hxx&#39;s Blog</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>zh</language>
+    <lastBuildDate>Mon, 13 May 2024 23:17:46 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1st Post</title>
+      <link>http://localhost:1313/posts/1st-post/</link>
+      <pubDate>Mon, 13 May 2024 23:17:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/1st-post/</guid>
+      <description>最新动态 ChatGPT, Claude 策略进一步优化, BBC iPlayer 也恢复了。 March 18 at 上午12:15 浏览器上的ChatGPT 策略已更新, 可更稳定的使用ChaTGPT 浏览器 Claude.ai 策略也已更新, 可随时使用Claude 不需要自已选择线路和定义策略 手机订阅中的ChaTGPT 线已支持Claude.ai BBC iPlayer 由于之前英国线问题，已更换。目前可以用了.仅限浏览器插件
+ChatGPT 不回复消息的问题解决. March 9 at 上午1:40 这几天会有一些用户反应ChatGPT 不回复消息的问题，解决方法是清一下浏览器绶存, 或进入隐私模式下登录试试，大多数都能解决 隐私模式 ( 也叫无痕模式 ) 介绍 该模式下，需要先让Ghelper 授权，让它允许运行在隐私模式下, 方法: 在浏览器扩展管理列表找到Ghelper 点详情，里面有 &amp;ldquo;在无痕模式下启用&amp;rdquo; 打开它就行了 然后在浏览器地址栏最右边 三个点的菜单里，点击 &amp;ldquo;打开新无痕窗口&amp;rdquo; 然后进入ChatGPT 登录，试试，一般是好的。 如果无痕模式下可以正常用，那就说明没问题，正常模式下你清理一下浏览器绶存就可以了。 补充: 也有用户反应更改ChatGPT设置中的语言也能解决，原理可能其实也是绶存导至，当切换不同语言时可能会重新下载数据，导至和清绶存同样效果。
+帐户激活的两种方式 February 27 at 下午5:24 打开激活邮件中的链接. 2.如果打不开上面的链接，也可用邮件中的验证码，在插件的控制面板输入验证码来完成激活
+近期一些问题汇总 February 26 at 上午11:53 ChatGPT 无法正常用的用户，请检查自已的“上网策略”中是否自已增添加过有关openai 的自定义策略，建议删除.系统已经做了默认策略。除非你了解它的具体工作原理,可以自已定义它 Google 的 Gemini 请手动切换线路来解锁，比如美国, 新加坡等地区都可以,Gemini 因使用的Google 二级域名，暂无法在系统下定义策略，否则会影响Google 其它服务的线路走向.</description>
+    </item>
   </channel>
 </rss>

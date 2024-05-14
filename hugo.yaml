@@ -53,7 +53,9 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  ShowToc: true
+
+  customCSS:
+    - css/extended/custom.css
 
   # home-info mode
   homeInfoParams:

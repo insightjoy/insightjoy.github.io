@@ -6,25 +6,7 @@ categories = ["Linux"]
 tags = ["Git"]
 
 +++
-
-
-
-- [**VIP: 2024-05-14**](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/plan)
-- [ 升级会员](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/plan)
-- [ blinds-hurrays0p@icloud.com](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/account/settings)
-- [ 退出帐户](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/account/logout)
-
-- [ 首页](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html)
-- [ 上网策略](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/rules)
-- [ 代理设置](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/proxies)
-- [ 服务器状态](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/status)
-- [ 手机代理](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/subscribe)
-- [ 技术工单](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html?/options/tickets)
-- [ 帐户与安全](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html#options-account-settings)
-
-1. [首页](chrome-extension://eoboojokdmamahfilfmamjjkcmkmddgk/options.html)
-
-###  最新动态
+### 最新动态
 
 #### ChatGPT, Claude 策略进一步优化, BBC iPlayer 也恢复了。 March 18 at 上午12:15
 
@@ -62,8 +44,6 @@ BBC iPlayer 由于之前英国线问题，已更换。目前可以用了.仅限�
 3. invoice 帐单重新设计，多支付网关将采用不同的帐单方式
 4. 正在新增更多支付网关..
 
-
-
 #### 在做一些升级，导至部分用户出现续费页面打不开【已修复】 January 8 at 下午1:12
 
 美国西雅图服务器周未证书过期导至默认的美国线无法使用，证书已更新。
@@ -77,14 +57,14 @@ BBC iPlayer 由于之前英国线问题，已更换。目前可以用了.仅限�
 
 #### 微软将BING AI 更改 为 Copilot November 21 at 上午12:51
 
-网址: https://copilot.microsoft.com/
+网址: <https://copilot.microsoft.com/>
 不再像BING一样必需使用 Edge, 可以使用Chrome 等浏览器了. 使用微软的帐号登录即可。
 另外 ChatGPT 帐号注册不再需要手机号验证了，也可以直接用第三方平台，如: Google 帐号直接登录。
 
 #### ChatGPT 服务状态官方检测地址 November 12 at 下午2:11
 
 ChatGPT 最近频繁出现服务中断，可以通过下面URL 查看是不是官方又出了问题
-https://status.openai.com/
+<https://status.openai.com/>
 
 #### ChatGPT 解锁已恢复 November 8 at 上午11:36
 
